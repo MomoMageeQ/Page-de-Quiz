@@ -1,0 +1,64 @@
+body{
+          margin: 5vh;
+}
+
+header{
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+}
+img{
+          width: 30vh;
+}
+ul{
+          list-style: none;
+          display: flex;
+}
+li{
+          margin-right: 5vh;
+          
+}
+a{
+          text-decoration: none;
+          color: red;
+          font-weight: bold;
+}
+.momo{
+          display: flex;
+          justify-content: space-around;
+          background-color: red;
+          color: white;
+}
+.chiffre{
+          border: 2px solid black;
+          border-radius: 100px;
+}
+.n1{
+          color: white;
+          background-color: blue;
+}
+hr{
+          padding: 1px;
+          width: 70vh;
+          margin-top: 12vh;
+          background-color: orangered;
+}
+h1{
+          text-align: center;
+}
+#nuit{
+          margin-left: 50vh;
+}
+.flex{
+     display: flex;
+     justify-content: space-around;
+     background-color: red;
+     color: white;
+     width: 100vh;
+     margin-left: 390px;
+}
+.action{
+     display: flex;
+     padding-left: 2vh;
+     margin-left: 2vh;
+}
